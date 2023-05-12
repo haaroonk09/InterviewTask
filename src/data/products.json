@@ -1,0 +1,501 @@
+[
+{
+	"_id" : "636a3dfe8e793faeb29f9dbe",
+	"price" : 600,
+	"stockQuantity" : 1,
+	"category" : "Shirts",
+	"name" : "Trousers",
+	"description" : "L",
+    "img" :"https://source.unsplash.com/1600x900/?shirts"
+},
+
+{
+	"_id" : "636a3d988e793faeb29f9dba",
+	"price" : 1000,
+	"stockQuantity" : 1,
+	"category" : "Shirts",
+	"name" : "Jeans",
+	"description" : "M",
+    "img" :"https://source.unsplash.com/1600x900/?shirts"
+},
+
+{
+	"_id" : "636a3d458e793faeb29f9db6",
+	"price" : 800,
+	"stockQuantity" : 1,
+	"category" : "Shirts",
+	"name" : "Activewear",
+	"description" : "M",
+    "img" :"https://source.unsplash.com/1600x900/?shirts"
+},
+
+{
+	"_id" : "636a3cdd8e793faeb29f9db2",
+	"price" : 700,
+	"stockQuantity" : 1,
+	"category" : "Shirts",
+	"name" : "Skirts",
+	"description" : "L",
+    "img" :"https://source.unsplash.com/1600x900/?shirts"
+},
+
+{
+	"_id" : "636a3c818e793faeb29f9dae",
+	"price" : 700,
+	"stockQuantity" : 1,
+	"category" : "Shirts",
+	"name" : "Tops",
+	"description" : "L",
+    "img" :"https://source.unsplash.com/1600x900/?shirts"
+},
+
+{
+	"_id" : "636a3c068e793faeb29f9daa",
+	"price" : 800,
+	"stockQuantity" : 1,
+	"category" : "Shirts",
+	"name" : "Jumpers",
+	"description" : "L",
+    "img" :"https://source.unsplash.com/1600x900/?shirts"
+},
+
+{
+	"_id" : "636a3bb68e793faeb29f9da6",
+	"price" : 300,
+	"stockQuantity" : 1,
+	"category" : "Shirts",
+	"name" : "Masks",
+	"description" : "M",
+    "img" :"https://source.unsplash.com/1600x900/?shirts"
+},
+
+{
+	"_id" : "636a3b5d8e793faeb29f9da2",
+	"price" : 600,
+	"stockQuantity" : 1,
+	"category" : "Shirts",
+	"name" : "Shoes",
+	"description" : "S",
+    "img" :"https://source.unsplash.com/1600x900/?shirts"
+},
+
+{
+	"_id" : "636a3af58e793faeb29f9d9e",
+	"price" : 400,
+	"stockQuantity" : 1,
+	"category" : "Shirts",
+	"name" : "Jewellery",
+	"description" : "L",
+    "img" :"https://source.unsplash.com/1600x900/?shirts"
+},
+
+{
+	"_id" : "636a3a8f8e793faeb29f9d9b",
+	"price" : 600,
+	"stockQuantity" : 1,
+	"category" : "Shirts",
+	"name" : "Swimwear",
+	"description" : "L",
+    "img" :"https://source.unsplash.com/1600x900/?shirts"
+},
+
+{
+	"_id" : "636a34048e793faeb29f9d98",
+	"price" : 250,
+	"stockQuantity" : 1,
+	"category" : "Trousers",
+	"name" : "Hair Accessories ",
+	"description" : "L",
+    "img" :"https://source.unsplash.com/1600x900/?shirts"
+},
+
+{
+	"_id" : "636a33ae8e793faeb29f9d95",
+	"price" : 700,
+	"stockQuantity" : 1,
+	"name" : "Baby Boy Costumes ",
+	"description" : "S",
+	"category" : "Trousers",
+    "img" :"https://source.unsplash.com/1600x900/?shirts"
+},
+
+{
+	"_id" : "636a329f8e793faeb29f9d92",
+	"price" : 800,
+	"stockQuantity" : 1,
+	"category" : "Trousers",
+	"name" : "Baby Costumes",
+	"description" : "S",
+    "img" :"https://source.unsplash.com/1600x900/?shirts"
+},
+
+{
+	"_id" : "636a2db88e793faeb29f9d8e",
+	"price" : 600,
+	"stockQuantity" : 1,
+	"category" : "Trousers",
+	"name" : "Nightwear",
+	"description" : "L ",
+    "img" :"https://source.unsplash.com/1600x900/?shirts"
+},
+
+{
+	"_id" : "636a2ca28e793faeb29f9d8a",
+	"price" : 300,
+	"stockQuantity" : 1,
+	"category" : "Trousers",
+	"name" : "Belts",
+	"description" : "L",
+    "img" :"https://source.unsplash.com/1600x900/?shirts"
+},
+
+{
+	"_id" : "636a2c298e793faeb29f9d86",
+	"price" : 800,
+	"stockQuantity" : 1,
+	"category" : "Trousers",
+	"name" : "Teen Girl Jeans",
+	"description" : "M",
+    "img" :"https://source.unsplash.com/1600x900/?shirts"
+},
+
+{
+	"_id" : "636a2b838e793faeb29f9d82",
+	"price" : 800,
+	"stockQuantity" : 1,
+	"category" : "Trousers",
+	"name" : "Baby Boy Accessories",
+	"description" : "S",
+    "img" :"https://source.unsplash.com/1600x900/?shirts"
+},
+
+{
+	"_id" : "636a2af18e793faeb29f9d7e",
+	"price" : 700,
+	"stockQuantity" : 1,
+	"category" : "Trousers",
+	"name" : "Hoodies",
+	"description" : "L",
+    "img" :"https://source.unsplash.com/1600x900/?shirts"
+},
+
+{
+	"_id" : "636a2a7f8e793faeb29f9d7a",
+	"price" : 900,
+	"stockQuantity" : 1,
+	"category" : "Trousers",
+	"name" : "Jewellery ",
+	"description" : "L",
+    "img" :"https://source.unsplash.com/1600x900/?shirts"
+},
+
+{
+	"_id" : "636a24ab8e793faeb29f9d76",
+	"price" : 300,
+	"stockQuantity" : 1,
+	"category" : "Trousers",
+	"description" : "L",
+	"name" : "Tie",
+    "img" :"https://source.unsplash.com/1600x900/?shirts"
+},
+
+{
+	"_id" : "636a210c8e793faeb29f9d72",
+	"price" : 1500,
+	"stockQuantity" : 1,
+	"category" : "Watches",
+	"name" : "Suits",
+	"description" : "L",
+    "img" :"https://source.unsplash.com/1600x900/?shirts"
+},
+
+{
+	"_id" : "636a20a08e793faeb29f9d6f",
+	"price" : 600,
+	"stockQuantity" : 1,
+	"category" : "Watches",
+	"name" : "Boots",
+	"description" : "L",
+    "img" :"https://source.unsplash.com/1600x900/?shirts"
+},
+
+{
+	"_id" : "636a203c8e793faeb29f9d6c",
+	"price" : 800,
+	"stockQuantity" : 1,
+	"category" : "Watches",
+	"name" : "Dresses",
+	"description" : "S",
+    "img" :"https://source.unsplash.com/1600x900/?shirts"
+},
+
+{
+	"_id" : "636a1fc78e793faeb29f9d69",
+	"price" : 900,
+	"stockQuantity" : 1,
+	"category" : "Watches",
+	"name" : "Shirts",
+	"description" : "L",
+    "img" :"https://source.unsplash.com/1600x900/?shirts"
+},
+
+{
+	"_id" : "636a1f6b8e793faeb29f9d66",
+	"price" : 500,
+	"stockQuantity" : 1,
+	"category" : "Watches",
+	"name" : "Trousers",
+	"description" : "L",
+    "img" :"https://source.unsplash.com/1600x900/?shirts"
+},
+
+{
+	"_id" : "636a10cc8e793faeb29f9d5f",
+	"price" : 600,
+	"stockQuantity" : 1,
+	"category" : "Watches",
+	"name" : "Trainers",
+	"description" : "L",
+    "img" :"https://source.unsplash.com/1600x900/?shirts"
+},
+
+{
+	"_id" : "636a0ebc8e793faeb29f9d5b",
+	"price" : 500,
+	"stockQuantity" : 1,
+	"category" : "Watches",
+	"name" : "Shorts",
+	"description" : "L",
+    "img" :"https://source.unsplash.com/1600x900/?shirts"
+},
+
+{
+	"_id" : "636a0e518e793faeb29f9d57",
+	"price" : 150,
+	"stockQuantity" : 1,
+	"category" : "Watches",
+	"name" : "Socks",
+	"description" : "L",
+    "img" :"https://source.unsplash.com/1600x900/?shirts"
+},
+
+{
+	"_id" : "636a0df68e793faeb29f9d53",
+	"price" : 700,
+	"stockQuantity" : 1,
+	"category" : "Watches",
+	"name" : "Nightwear",
+	"description" : "M",
+    "img" :"https://source.unsplash.com/1600x900/?shirts"
+},
+
+{
+	"_id" : "636a0d6c8e793faeb29f9d4f",
+	"price" : 600,
+	"stockQuantity" : 1,
+	"category" : "Watches",
+	"name" : "Baby Swimwear",
+	"description" : "S",
+    "img" :"https://source.unsplash.com/1600x900/?shirts"
+},
+
+{
+	"_id" : "636a0ca18e793faeb29f9d4b",
+	"price" : 1200,
+	"stockQuantity" : 1,
+	"category" : "Footwear",
+	"name" : "Hoodies",
+	"description" : "L",
+    "img" :"https://source.unsplash.com/1600x900/?shirts"
+},
+
+{
+	"_id" : "636a0b848e793faeb29f9d47",
+	"price" : 500,
+	"stockQuantity" : 1,
+	"category" : "Footwear",
+	"name" : "Baby Sunglasses ",
+	"description" : "S",
+    "img" :"https://source.unsplash.com/1600x900/?shirts"
+},
+
+{
+	"_id" : "636a0b128e793faeb29f9d43",
+	"price" : 1000,
+	"stockQuantity" : 1,
+	"category" : "Footwear",
+	"name" : "Bags",
+	"description" : "M",
+    "img" :"https://source.unsplash.com/1600x900/?shirts"
+},
+
+{
+	"_id" : "636a0a978e793faeb29f9d3f",
+	"price" : 700,
+	"stockQuantity" : 1,
+	"category" : "Footwear",
+	"name" : "Jewellery ",
+	"description" : "M",
+    "img" :"https://source.unsplash.com/1600x900/?shirts"
+},
+
+{
+	"_id" : "636a0a208e793faeb29f9d3c",
+	"price" : 1000,
+	"stockQuantity" : 1,
+	"category" : "Footwear",
+	"name" : "Suits",
+	"description" : "L",
+    "img" :"https://source.unsplash.com/1600x900/?shirts"
+},
+
+{
+	"_id" : "636a09bf8e793faeb29f9d39",
+	"price" : 800,
+	"stockQuantity" : 1,
+	"category" : "Footwear",
+	"name" : "Loafers",
+	"description" : "L",
+    "img" :"https://source.unsplash.com/1600x900/?shirts"
+},
+
+{
+	"_id" : "636a09288e793faeb29f9d36",
+	"price" : 500,
+	"stockQuantity" : 1,
+	"category" : "Footwear",
+	"name" : "Kimonos",
+	"description" : "M",
+    "img" :"https://source.unsplash.com/1600x900/?shirts"
+},
+
+{
+	"_id" : "636a08a88e793faeb29f9d33",
+	"price" : 700,
+	"stockQuantity" : 1,
+	"category" : "Footwear",
+	"name" : "Dresses ",
+	"description" : "M",
+    "img" :"https://source.unsplash.com/1600x900/?shirts"
+},
+
+{
+	"_id" : "636a08608e793faeb29f9d30",
+	"price" : 500,
+	"stockQuantity" : 1,
+	"category" : "Footwear",
+	"name" : "Shorts",
+	"description" : "S",
+    "img" :"https://source.unsplash.com/1600x900/?shirts"
+},
+
+{
+	"_id" : "636a07ff8e793faeb29f9d2d",
+	"price" : 800,
+	"stockQuantity" : 1,
+	"category" : "Footwear",
+	"name" : "Jeans",
+	"description" : "L",
+    "img" :"https://source.unsplash.com/1600x900/?shirts"
+},
+
+{
+	"_id" : "636a06448e793faeb29f9d27",
+	"price" : 800,
+	"stockQuantity" : 1,
+	"category" : "T-Shirts",
+	"name" : "Jumpers",
+	"description" : "L",
+    "img" :"https://source.unsplash.com/1600x900/?shirts"
+},
+
+{
+	"_id" : "636a05d28e793faeb29f9d23",
+	"price" : 800,
+	"stockQuantity" : 1,
+	"category" : "T-Shirts",
+	"name" : "Shirts",
+	"description" : "L",
+    "img" :"https://source.unsplash.com/1600x900/?shirts"
+},
+
+{
+	"_id" : "636a055d8e793faeb29f9d1f",
+	"price" : 1200,
+	"stockQuantity" : 1,
+	"category" : "T-Shirts",
+	"name" : "Loungewear",
+	"description" : "L",
+    "img" :"https://source.unsplash.com/1600x900/?shirts"
+},
+
+{
+	"_id" : "636a04c08e793faeb29f9d1b",
+	"price" : 600,
+	"stockQuantity" : 1,
+	"category" : "T-Shirts",
+	"name" : "T-Shirts",
+	"description" : "M",
+    "img" :"https://source.unsplash.com/1600x900/?shirts"
+},
+
+{
+	"_id" : "636a04348e793faeb29f9d17",
+	"price" : 350,
+	"stockQuantity" : 1,
+	"category" : "T-Shirts",
+	"name" : "Girls Hats",
+	"description" : "M",
+    "img" :"https://source.unsplash.com/1600x900/?shirts"
+},
+
+{
+	"_id" : "6369fe578e793faeb29f9d13",
+	"price" : 1000,
+	"stockQuantity" : 1,
+	"category" : "T-Shirts",
+	"name" : "Sunglasses",
+	"description" : "M",
+    "img" :"https://source.unsplash.com/1600x900/?shirts"
+},
+
+{
+	"_id" : "6369fce88e793faeb29f9d0f",
+	"price" : 300,
+	"stockQuantity" : 1,
+	"category" : "T-Shirts",
+	"name" : "Belts",
+	"description" : "L",
+    "img" :"https://source.unsplash.com/1600x900/?shirts"
+},
+
+{
+	"_id" : "6369fc198e793faeb29f9d0b",
+	"price" : 800,
+	"stockQuantity" : 1,
+	"category" : "T-Shirts",
+	"name" : "Sleepwear",
+	"description" : "S",
+    "img" :"https://source.unsplash.com/1600x900/?shirts"
+},
+
+{
+	"_id" : "6369fb398e793faeb29f9d07",
+	"price" : 500,
+	"stockQuantity" : 1,
+	"category" : "T-Shirts",
+	"name" : "Jackets ",
+	"description" : "L",
+    "img" :"https://source.unsplash.com/1600x900/?shirts"
+},
+
+{
+	"_id" : "6369fa568e793faeb29f9d03",
+	"price" : 700,
+	"stockQuantity" : 1,
+	"category" : "T-Shirts",
+	"name" : "Costumes",
+	"description" : "S",
+    "img" :"https://source.unsplash.com/1600x900/?shirts"
+}
+]
